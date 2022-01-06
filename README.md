@@ -41,8 +41,8 @@ conda install -c apple tensorflow-deps
 python -m pip install tensorflow-macos
 # Step Fourteen - Install Tensorflow-metal plugin (copy & paste)
 python -m pip install tensorflow-metal
-# Step fithteen - Install conda pandas 
+# Step fifteen - Install conda pandas 
 conda install pandas 
-# Step Fithteen - Start Juypter Notebook
+# Step Sixthteen - Start Juypter Notebook
 jupyter notebook 
 
